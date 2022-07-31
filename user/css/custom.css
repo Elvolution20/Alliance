@@ -1,0 +1,120 @@
+.pricing-list{
+    text-align: center;
+    border-radius: 10px;
+    background: #fff;
+    border: 2px solid #ececec;
+    padding: 30px 40px;
+    margin: 20px 0px;
+    -webkit-box-shadow: 0px 10px 30px 0px rgb(50 50 50 / 16%);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.16);
+    box-shadow: 0px 10px 30px 0px rgb(50 50 50 / 16%);
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+.pricing-list h4 {
+    color: #111;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.pricing-list h2 {
+    display: inline-block;
+    color: #111;
+    font-size: 65px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin-top: 0;
+}
+.pricing-list h2 sup {
+    color: #111;
+    font-size: 30px;
+    font-weight: 500;
+}
+.pricing-list span {
+    display: inline-block;
+    color: #0575ad;
+    font-weight: 500;
+}
+.pricing-list ul {
+    margin-top: 20px;
+    padding: 0
+}
+.pricing-list ul li {
+    color: #666;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 7px;
+}
+.pricing-list-button {
+    background: #08237e;
+    margin: 20px 15px 0px 15px;
+    border: 2px solid #08237e;
+    border-radius: 5px;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+.pricing-list-button a {
+    display: block;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    text-decoration: none;
+}
+.service-simple {
+    position: relative;
+    background: #fff;
+    border: 1px solid #ececec;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 15px 0px;
+    -webkit-box-shadow: 0px 10px 30px 0px rgb(50 50 50 / 16%);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.16);
+    box-shadow: 0px 10px 30px 0px rgb(50 50 50 / 16%);
+}
+.service-simple-inner {
+    position: relative;
+    padding: 25px 25px 20px 25px;
+}
+.service-simple h4 {
+    font-size: 20px;
+    color: #111;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.service-simple p {
+    font-size: 15px;
+    color: #999;
+    line-height: 1.7;
+    margin-bottom: 0px;
+}
+.service-simple-button a {
+    display: inline-block;
+    background: #08237e;
+    color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    width: 100%;
+    margin: 15px 0px 2px 0px;
+    padding: 15px 20px 15px 20px;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    text-decoration: none;
+}
+
+.safety li::before {
+    position: absolute;
+    content: "";
+    background-color: #fff;
+    width: 16px;
+    height: 16px;
+    border-radius: 16px;
+    left: 10px;
+}
