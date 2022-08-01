@@ -1,1279 +1,1279 @@
-Uri: https://www.amerstocktrading.digital/
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\index.htm
+Uri: https://www.alliancecoinmining.com/
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\index.htm
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/images/favicon.ico
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\favicon.ico
+Uri: https://www.alliancecoinmining.com/images/favicon.ico
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\favicon.ico
 Content Type: image/x-icon
 
-Uri: https://www.amerstocktrading.digital/assets/css/vendor.bundle.css?ver=192
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\css\vendor.bundle.css
+Uri: https://www.alliancecoinmining.com/assets/css/vendor.bundle.css?ver=192
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\css\vendor.bundle.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/assets/css/style-salvia.css?ver=192
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\css\style-salvia.css
+Uri: https://www.alliancecoinmining.com/assets/css/style-salvia.css?ver=192
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\css\style-salvia.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/assets/css/youtube.css
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\css\youtube.css
+Uri: https://www.alliancecoinmining.com/assets/css/youtube.css
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\css\youtube.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/assets/css/theme.css?ver=192
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\css\theme.css
+Uri: https://www.alliancecoinmining.com/assets/css/theme.css?ver=192
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\css\theme.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/dashboard/login
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\login.html
+Uri: https://www.alliancecoinmining.com/dashboard/login
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\login.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/dashboard/register
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\register.html
+Uri: https://www.alliancecoinmining.com/dashboard/register
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\register.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/terms/privacy-policy.html
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\terms\privacy-policy.html
+Uri: https://www.alliancecoinmining.com/terms/privacy-policy.html
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\terms\privacy-policy.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/terms/return-and-refund-policy.html
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\terms\return-and-refund-policy.html
+Uri: https://www.alliancecoinmining.com/terms/return-and-refund-policy.html
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\terms\return-and-refund-policy.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/terms/terms-and-conditions.html
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\terms\terms-and-conditions.html
+Uri: https://www.alliancecoinmining.com/terms/terms-and-conditions.html
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\terms\terms-and-conditions.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/terms/disclaimer.html
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\terms\disclaimer.html
+Uri: https://www.alliancecoinmining.com/terms/disclaimer.html
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\terms\disclaimer.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/images/mlogo/logo.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\mlogo\logo.png
+Uri: https://www.alliancecoinmining.com/images/mlogo/logo.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\mlogo\logo.png
 Content Type: image/png
 
 Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\external-embedding\embed-widget-ticker-tape.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\external-embedding\embed-widget-ticker-tape.js
 Content Type: text/javascript
 
-Uri: https://www.amerstocktrading.digital/images/header/gfx-g.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\header\gfx-g.png
+Uri: https://www.alliancecoinmining.com/images/header/gfx-g.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\header\gfx-g.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/icons/icon-o.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\icons\icon-o.png
+Uri: https://www.alliancecoinmining.com/images/icons/icon-o.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\icons\icon-o.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/icons/icon-p.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\icons\icon-p.png
+Uri: https://www.alliancecoinmining.com/images/icons/icon-p.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\icons\icon-p.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/icons/icon-q.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\icons\icon-q.png
+Uri: https://www.alliancecoinmining.com/images/icons/icon-q.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\icons\icon-q.png
 Content Type: image/png
 
 Uri: https://www.youtube.com/embed/610hJMYiiMY?controls=0;rel=0;autoplay=1
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\embed\610hJMYiiMY.html
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\embed\610hJMYiiMY.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/images/salvia/gfx-d-dark.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\salvia\gfx-d-dark.png
+Uri: https://www.alliancecoinmining.com/images/salvia/gfx-d-dark.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\salvia\gfx-d-dark.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/app-screens/gfx-z-c.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\app-screens\gfx-z-c.png
+Uri: https://www.alliancecoinmining.com/images/app-screens/gfx-z-c.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\app-screens\gfx-z-c.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/salvia/docs-sm-a.jpg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\salvia\docs-sm-a.jpg
+Uri: https://www.alliancecoinmining.com/images/salvia/docs-sm-a.jpg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\salvia\docs-sm-a.jpg
 Content Type: image/jpeg
 
-Uri: https://www.amerstocktrading.digital/images/salvia/docs-sm-b.jpg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\salvia\docs-sm-b.jpg
+Uri: https://www.alliancecoinmining.com/images/salvia/docs-sm-b.jpg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\salvia\docs-sm-b.jpg
 Content Type: image/jpeg
 
-Uri: https://www.amerstocktrading.digital/images/salvia/docs-sm-c.jpg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\salvia\docs-sm-c.jpg
+Uri: https://www.alliancecoinmining.com/images/salvia/docs-sm-c.jpg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\salvia\docs-sm-c.jpg
 Content Type: image/jpeg
 
-Uri: https://www.amerstocktrading.digital/images/salvia/docs-sm-d.jpg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\salvia\docs-sm-d.jpg
+Uri: https://www.alliancecoinmining.com/images/salvia/docs-sm-d.jpg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\salvia\docs-sm-d.jpg
 Content Type: image/jpeg
 
-Uri: https://www.amerstocktrading.digital/images/map-bg.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\map-bg.png
+Uri: https://www.alliancecoinmining.com/images/map-bg.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\map-bg.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/payment/p-holder-one.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\payment\p-holder-one.png
+Uri: https://www.alliancecoinmining.com/images/payment/p-holder-one.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\payment\p-holder-one.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/payment/p-holder-two.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\payment\p-holder-two.png
+Uri: https://www.alliancecoinmining.com/images/payment/p-holder-two.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\payment\p-holder-two.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/payment/p-holder-three.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\payment\p-holder-three.png
+Uri: https://www.alliancecoinmining.com/images/payment/p-holder-three.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\payment\p-holder-three.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/payment/p-holder-four.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\payment\p-holder-four.png
+Uri: https://www.alliancecoinmining.com/images/payment/p-holder-four.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\payment\p-holder-four.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/partners/a-xs.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\partners\a-xs.png
+Uri: https://www.alliancecoinmining.com/images/partners/a-xs.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\partners\a-xs.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/partners/b-xs.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\partners\b-xs.png
+Uri: https://www.alliancecoinmining.com/images/partners/b-xs.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\partners\b-xs.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/partners/c-xs.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\partners\c-xs.png
+Uri: https://www.alliancecoinmining.com/images/partners/c-xs.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\partners\c-xs.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/partners/d-xs.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\partners\d-xs.png
+Uri: https://www.alliancecoinmining.com/images/partners/d-xs.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\partners\d-xs.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/partners/e-xs.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\partners\e-xs.png
+Uri: https://www.alliancecoinmining.com/images/partners/e-xs.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\partners\e-xs.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/partners/f-xs.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\partners\f-xs.png
+Uri: https://www.alliancecoinmining.com/images/partners/f-xs.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\partners\f-xs.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/logo.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\logo.png
+Uri: https://www.alliancecoinmining.com/images/logo.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\logo.png
 Content Type: image/png
 
 Uri: https://code-eu1.jivosite.com/widget/KZlHTwnptf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\widget\KZlHTwnptf.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\widget\KZlHTwnptf.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/assets/js/jquery.bundle.js?ver=192
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\js\jquery.bundle.js
+Uri: https://www.alliancecoinmining.com/assets/js/jquery.bundle.js?ver=192
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\js\jquery.bundle.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/assets/js/scripts.js?ver=192
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\js\scripts.js
+Uri: https://www.alliancecoinmining.com/assets/js/scripts.js?ver=192
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\js\scripts.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/assets/js/charts.js?var=161
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\js\charts.js
+Uri: https://www.alliancecoinmining.com/assets/js/charts.js?var=161
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\js\charts.js
 Content Type: application/javascript
 
 
 
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-brands-400.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-brands-400.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-brands-400.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-brands-400.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-brands-400-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-brands-400-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-brands-400.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-brands-400.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-brands-400.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-brands-400.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-brands-400.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-brands-400.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-brands-400.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-brands-400.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-brands-400.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-brands-400.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-brands-400.svg
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-brands-400.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-regular-400.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-regular-400.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-regular-400.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-regular-400.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-regular-400-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-regular-400-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-regular-400.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-regular-400.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-regular-400.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-regular-400.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-regular-400.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-regular-400.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-regular-400.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-regular-400.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-regular-400.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-regular-400.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-regular-400.svg
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-regular-400.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-solid-900.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-solid-900.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-solid-900.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-solid-900.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-solid-900-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-solid-900-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-solid-900.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-solid-900.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-solid-900.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-solid-900.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-solid-900.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-solid-900.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-solid-900.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-solid-900.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-solid-900.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/fa-solid-900.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\fa-solid-900.svg
+Uri: https://www.alliancecoinmining.com/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\fa-solid-900.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Ikon-Crypto.ttf?h952os
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Ikon-Crypto.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Ikon-Crypto.ttf?h952os
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Ikon-Crypto.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Ikon-Crypto.woff?h952os
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Ikon-Crypto.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Ikon-Crypto.woff?h952os
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Ikon-Crypto.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Ikon-Crypto.svg?h952os
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Ikon-Crypto.svg
+Uri: https://www.alliancecoinmining.com/assets/fonts/Ikon-Crypto.svg?h952os
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Ikon-Crypto.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/themify.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\themify.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\themify.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/themify.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\themify-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\themify-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/themify.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\themify.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\themify.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/themify.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\themify.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\themify.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/themify.svg?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\themify.svg
+Uri: https://www.alliancecoinmining.com/assets/fonts/themify.svg?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\themify.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Bold.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Bold.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Bold.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Bold.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Bold.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Bold-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Bold-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Bold.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Bold.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Bold.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Bold.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Bold.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Bold.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Bold.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Bold.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Bold.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Bold.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Light.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Light.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Light.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Light.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Light.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Light-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Light.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Light-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Light.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Light.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Light.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Light.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Light.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Light.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Light.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Light.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Light.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Light.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Light.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Light.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-SemiBold.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-SemiBold.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-SemiBold.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-SemiBold.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-SemiBold.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-SemiBold-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-SemiBold.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-SemiBold-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-SemiBold.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-SemiBold.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-SemiBold.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-SemiBold.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-SemiBold.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-SemiBold.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-SemiBold.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-SemiBold.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-SemiBold.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-SemiBold.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Medium.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Medium.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Medium.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Medium.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Medium.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Medium-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Medium.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Medium-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Medium.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Medium.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Medium.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Medium.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Medium.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Medium.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Medium.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Medium.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Medium.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Medium.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Regular.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Regular.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Regular.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Regular.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Regular.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Regular-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Regular.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Regular-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Regular.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Regular.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Regular.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Regular.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Regular.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Regular.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Regular.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Poppins-Regular.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Poppins-Regular.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Poppins-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Poppins-Regular.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Light.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Light.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Light.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Light.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Light.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Light-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Light.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Light-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Light.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Light.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Light.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Light.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Light.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Light.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Light.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Light.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Light.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Light.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Light.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Light.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Regular.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Regular.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Regular.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Regular.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Regular.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Regular-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Regular.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Regular-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Regular.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Regular.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Regular.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Regular.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Regular.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Regular.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Regular.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Regular.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Regular.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Regular.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Medium.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Medium.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Medium.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Medium.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Medium.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Medium-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Medium.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Medium-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Medium.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Medium.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Medium.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Medium.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Medium.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Medium.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Medium.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Medium.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Medium.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Medium.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Bold.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Bold.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Bold.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Bold.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Bold.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Bold-1.eot
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Bold-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Bold.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Bold.woff2
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Bold.woff2
 Content Type: font/woff2
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Bold.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Bold.woff
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Bold.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Bold.woff
 Content Type: font/woff
 
-Uri: https://www.amerstocktrading.digital/assets/fonts/Roboto-Bold.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\fonts\Roboto-Bold.ttf
+Uri: https://www.alliancecoinmining.com/assets/fonts/Roboto-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\fonts\Roboto-Bold.ttf
 Content Type: font/ttf
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-a.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-a.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-a.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-a.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-a.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-a.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-a.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-a.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-a-md.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-a-md.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-a-md.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-a-md.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-a-md.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-a-md.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-a-md.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-a-md.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-a-dark.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-a-dark.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-a-dark.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-a-dark.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-b.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-b.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-b.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-b.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-b.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-b.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-b.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-b.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-c.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-c.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-c.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-c.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-c.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-c.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-c.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-c.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-c-light.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-c-light.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-c-light.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-c-light.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-c-light.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-c-light.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-c-light.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-c-light.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-c-dark.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-c-dark.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-c-dark.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-c-dark.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-d.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-d.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-d.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-d.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-d.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-d.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-d.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-d.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-d2.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-d2.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-d2.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-d2.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-e.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-e.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-e.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-e.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-e.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-e.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-e.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-e.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-f.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-f.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-f.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-f.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-f.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-f.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-f.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-f.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-f-footer.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-f-footer.svg
+Uri: https://www.alliancecoinmining.com/assets/images/mask-f-footer.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-f-footer.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-f-footer.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-f-footer.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-f-footer.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-f-footer.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-a.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-a.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-a.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-a.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-a-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-a-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-a-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-a-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-b.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-b.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-b.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-b.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-b-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-b-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-b-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-b-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-c.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-c.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-c.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-c.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-c-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-c-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-c-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-c-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-d.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-d.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-d.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-d.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-d-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-d-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-d-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-d-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-e.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-e.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-e.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-e.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-e-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-e-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-e-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-e-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-f.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-f.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-f.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-f.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-f-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-f-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-f-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-f-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-g.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-g.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-g.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-g.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-g-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-g-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-g-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-g-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-h.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-h.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-h.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-h.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-h-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-h-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-h-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-h-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-i.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-i.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-i.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-i.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-i-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-i-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-i-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-i-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-m.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-m.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-m.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-m.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-n.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-n.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-n.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-n.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-o.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-o.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-o.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-o.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-p.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-p.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-p.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-p.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-q.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-q.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-q.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-q.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-r.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-r.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-r.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-r.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-s.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-s.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-s.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-s.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-s-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-s-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-s-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-s-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-t.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-t.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-t.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-t.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-u.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-u.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-u.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-u.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-v.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-v.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-v.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-v.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-w.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-w.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-w.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-w.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-x.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-x.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-x.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-x.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-x-2.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-x-2.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-x-2.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-x-2.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-x-3.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-x-3.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-x-3.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-x-3.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-y.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-y.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-y.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-y.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-z.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-z.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-z.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-z.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-z2.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-z2.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-z2.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-z2.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-a2.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-a2.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-a2.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-a2.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-z3.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-z3.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-z3.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-z3.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-z4.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-z4.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-z4.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-z4.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-z6.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-z6.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-z6.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-z6.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-z6-sm.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-z6-sm.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-z6-sm.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-z6-sm.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/shape-z7.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\shape-z7.png
+Uri: https://www.alliancecoinmining.com/assets/images/shape-z7.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\shape-z7.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/dot-a.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\dot-a.png
+Uri: https://www.alliancecoinmining.com/assets/images/dot-a.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\dot-a.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/dot-b.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\dot-b.png
+Uri: https://www.alliancecoinmining.com/assets/images/dot-b.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\dot-b.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/ui-shape-a.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\ui-shape-a.svg
+Uri: https://www.alliancecoinmining.com/assets/images/ui-shape-a.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\ui-shape-a.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/ui-shape-b.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\ui-shape-b.svg
+Uri: https://www.alliancecoinmining.com/assets/images/ui-shape-b.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\ui-shape-b.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/ui-shape-light-a.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\ui-shape-light-a.svg
+Uri: https://www.alliancecoinmining.com/assets/images/ui-shape-light-a.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\ui-shape-light-a.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/ui-shape-light-b.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\ui-shape-light-b.svg
+Uri: https://www.alliancecoinmining.com/assets/images/ui-shape-light-b.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\ui-shape-light-b.svg
 Content Type: image/svg+xml
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-line-a.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-line-a.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-line-a.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-line-a.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-line-b.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-line-b.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-line-b.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-line-b.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-line-c.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-line-c.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-line-c.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-line-c.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/mask-line-d.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\mask-line-d.png
+Uri: https://www.alliancecoinmining.com/assets/images/mask-line-d.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\mask-line-d.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/polygon-line-a.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\polygon-line-a.png
+Uri: https://www.alliancecoinmining.com/assets/images/polygon-line-a.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\polygon-line-a.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/polygon-line-b.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\polygon-line-b.png
+Uri: https://www.alliancecoinmining.com/assets/images/polygon-line-b.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\polygon-line-b.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/polygon-line-a-fill.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\polygon-line-a-fill.png
+Uri: https://www.alliancecoinmining.com/assets/images/polygon-line-a-fill.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\polygon-line-a-fill.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/polygon-line-c.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\polygon-line-c.png
+Uri: https://www.alliancecoinmining.com/assets/images/polygon-line-c.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\polygon-line-c.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/polygon-fill.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\polygon-fill.png
+Uri: https://www.alliancecoinmining.com/assets/images/polygon-fill.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\polygon-fill.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/dot-c.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\dot-c.png
+Uri: https://www.alliancecoinmining.com/assets/images/dot-c.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\dot-c.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/light-ix.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\light-ix.png
+Uri: https://www.alliancecoinmining.com/assets/images/light-ix.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\light-ix.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/icons/icon-bg-a.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\icons\icon-bg-a.png
+Uri: https://www.alliancecoinmining.com/images/icons/icon-bg-a.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\icons\icon-bg-a.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/icons/icon-bg-a2.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\icons\icon-bg-a2.png
+Uri: https://www.alliancecoinmining.com/images/icons/icon-bg-a2.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\icons\icon-bg-a2.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/images/icons/icon-bg-a3.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\images\icons\icon-bg-a3.png
+Uri: https://www.alliancecoinmining.com/images/icons/icon-bg-a3.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\images\icons\icon-bg-a3.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/line.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\line.png
+Uri: https://www.alliancecoinmining.com/assets/images/line.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\line.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/hexagon.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\hexagon.png
+Uri: https://www.alliancecoinmining.com/assets/images/hexagon.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\hexagon.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/polygon-a-dark.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\polygon-a-dark.png
+Uri: https://www.alliancecoinmining.com/assets/images/polygon-a-dark.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\polygon-a-dark.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/assets/images/polygon-a-light.png
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\assets\images\polygon-a-light.png
+Uri: https://www.alliancecoinmining.com/assets/images/polygon-a-light.png
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\assets\images\polygon-a-light.png
 Content Type: image/png
 
-Uri: https://www.amerstocktrading.digital/dashboard/storage/app/public/photos/upload-favicon.png1617293031
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\storage\app\public\photos\upload-favicon.png1617293031
+Uri: https://www.alliancecoinmining.com/dashboard/storage/app/public/photos/upload-favicon.png1617293031
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\storage\app\public\photos\upload-favicon.png1617293031
 Content Type: application/octet-stream
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/css/bootstrap.min.css
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\css\bootstrap.min.css
+Uri: https://www.alliancecoinmining.com/dashboard/temp/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\css\bootstrap.min.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/css/materialdesignicons.min.css
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\css\materialdesignicons.min.css
+Uri: https://www.alliancecoinmining.com/dashboard/temp/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\css\materialdesignicons.min.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/css/line.css
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\css\line.css
+Uri: https://www.alliancecoinmining.com/dashboard/temp/css/line.css
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\css\line.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/css/style.css
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\css\style.css
+Uri: https://www.alliancecoinmining.com/dashboard/temp/css/style.css
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\css\style.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/css/colors/default.css
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\css\colors\default.css
+Uri: https://www.alliancecoinmining.com/dashboard/temp/css/colors/default.css
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\css\colors\default.css
 Content Type: text/css
 
-Uri: https://www.amerstocktrading.digital/dashboard/forgot-password
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\forgot-password.html
+Uri: https://www.alliancecoinmining.com/dashboard/forgot-password
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\forgot-password.html
 Content Type: text/html
 
-Uri: https://www.amerstocktrading.digital/dashboard/storage/app/public/photos/33XFEblogo2.png1647375585
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\storage\app\public\photos\33XFEblogo2.png1647375585
+Uri: https://www.alliancecoinmining.com/dashboard/storage/app/public/photos/33XFEblogo2.png1647375585
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\storage\app\public\photos\33XFEblogo2.png1647375585
 Content Type: application/octet-stream
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/js/jquery-3.5.1.min.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\js\jquery-3.5.1.min.js
+Uri: https://www.alliancecoinmining.com/dashboard/temp/js/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\js\jquery-3.5.1.min.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/js/bootstrap.bundle.min.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\js\bootstrap.bundle.min.js
+Uri: https://www.alliancecoinmining.com/dashboard/temp/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\js\bootstrap.bundle.min.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/js/owl.carousel.min.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\js\owl.carousel.min.js
+Uri: https://www.alliancecoinmining.com/dashboard/temp/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\js\owl.carousel.min.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/js/owl.init.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\js\owl.init.js
+Uri: https://www.alliancecoinmining.com/dashboard/temp/js/owl.init.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\js\owl.init.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/js/feather.min.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\js\feather.min.js
+Uri: https://www.alliancecoinmining.com/dashboard/temp/js/feather.min.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\js\feather.min.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/js/app.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\js\app.js
+Uri: https://www.alliancecoinmining.com/dashboard/temp/js/app.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\js\app.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/js/widget.js
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\js\widget.js
+Uri: https://www.alliancecoinmining.com/dashboard/temp/js/widget.js
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\js\widget.js
 Content Type: application/javascript
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/fonts/materialdesignicons-webfonte910.eot?v=5.8.55
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\fonts\materialdesignicons-webfonte910.eot
+Uri: https://www.alliancecoinmining.com/dashboard/temp/fonts/materialdesignicons-webfonte910.eot?v=5.8.55
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\fonts\materialdesignicons-webfonte910.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/fonts/materialdesignicons-webfontd41d.eot?
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\fonts\materialdesignicons-webfontd41d.eot
+Uri: https://www.alliancecoinmining.com/dashboard/temp/fonts/materialdesignicons-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\fonts\materialdesignicons-webfontd41d.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://www.amerstocktrading.digital/dashboard/temp/fonts/materialdesignicons-webfonte910.woff?v=5.8.55
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\dashboard\temp\fonts\materialdesignicons-webfonte910.woff
+Uri: https://www.alliancecoinmining.com/dashboard/temp/fonts/materialdesignicons-webfonte910.woff?v=5.8.55
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\dashboard\temp\fonts\materialdesignicons-webfonte910.woff
 Content Type: font/woff
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-0.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-0.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-0.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-0.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-0.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-0.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-0.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-0.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-0.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-0.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-0.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-0.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-0.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-0.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-0.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-1.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-1.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-1.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-1.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-1.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-1.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-1.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-1.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-1.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-1.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-1.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-1.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-1.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-1.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-1.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-10.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-10.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-10.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-10.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-10.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-10.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-10.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-10.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-10.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-10.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-10.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-10.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-10.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-10.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-10.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-11.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-11.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-11.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-11.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-11.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-11.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-11.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-11.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-11.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-11.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-11.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-11.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-11.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-11.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-11.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-12.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-12.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-12.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-12.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-12.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-12.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-12.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-12.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-12.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-12.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-12.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-12.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-12.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-12.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-12.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-13.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-13.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-13.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-13.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-13.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-13.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-13.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-13.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-13.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-13.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-13.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-13.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-13.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-13.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-13.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-14.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-14.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-14.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-14.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-14.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-14.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-14.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-14.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-14.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-14.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-14.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-14.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-14.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-14.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-14.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-15.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-15.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-15.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-15.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-15.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-15.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-15.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-15.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-15.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-15.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-15.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-15.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-15.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-15.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-15.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-16.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-16.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-16.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-16.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-16.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-16.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-16.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-16.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-16.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-16.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-16.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-16.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-16.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-16.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-16.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-17.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-17.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-17.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-17.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-17.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-17.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-17.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-17.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-17.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-17.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-17.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-17.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-17.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-17.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-17.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-18.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-18.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-18.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-18.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-18.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-18.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-18.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-18.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-18.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-18.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-18.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-18.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-18.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-18.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-18.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-19.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-19.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-19.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-19.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-19.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-19.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-19.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-19.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-19.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-19.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-19.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-19.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-19.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-19.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-19.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-2.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-2.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-2.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-2.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-2.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-2.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-2.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-2.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-2.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-2.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-2.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-2.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-2.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-2.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-2.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-3.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-3.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-3.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-3.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-3.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-3.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-3.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-3.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-3.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-3.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-3.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-3.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-3.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-3.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-3.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-4.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-4.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-4.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-4.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-4.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-4.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-4.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-4.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-4.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-4.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-4.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-4.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-4.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-4.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-4.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-5.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-5.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-5.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-5.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-5.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-5.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-5.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-5.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-5.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-5.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-5.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-5.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-5.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-5.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-5.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-6.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-6.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-6.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-6.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-6.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-6.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-6.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-6.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-6.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-6.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-6.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-6.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-6.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-6.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-6.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-7.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-7.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-7.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-7.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-7.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-7.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-7.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-7.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-7.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-7.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-7.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-7.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-7.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-7.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-7.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-8.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-8.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-8.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-8.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-8.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-8.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-8.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-8.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-8.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-8.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-8.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-8.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-8.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-8.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-8.svg
 Content Type: image/svg+xml
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-9.eot
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-9.eot
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-9.eot
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-9.woff2
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-9.woff2
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-9.woff2
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-9.woff
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-9.woff
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-9.woff
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-9.ttf
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-9.ttf
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-9.ttf
 Content Type: binary/octet-stream
 
 Uri: https://unicons.iconscout.com/release/v3.0.3/fonts/line/unicons-9.svg
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\release\v3.0.3\fonts\line\unicons-9.svg
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\release\v3.0.3\fonts\line\unicons-9.svg
 Content Type: image/svg+xml
 
 Uri: https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&amp;display=swap
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\css.css
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\css.css
 Content Type: text/css
 
 Uri: https://accounts.google.com/signin/oauth/error?authError=Cg9pbnZhbGlkX3JlcXVlc3QS3gEKWW91IGNhbid0IHNpZ24gaW4gdG8gdGhpcyBhcHAgYmVjYXVzZSBpdCBkb2Vzbid0IGNvbXBseSB3aXRoIEdvb2dsZSdzIE9BdXRoIDIuMCBwb2xpY3kgZm9yIGtlZXBpbmcgYXBwcyBzZWN1cmUuCgpZb3UgY2FuIGxldCB0aGUgYXBwIGRldmVsb3BlciBrbm93IHRoYXQgdGhpcyBhcHAgZG9lc24ndCBjb21wbHkgd2l0aCBvbmUgb3IgbW9yZSBHb29nbGUgdmFsaWRhdGlvbiBydWxlcy4KICAaWWh0dHBzOi8vZGV2ZWxvcGVycy5nb29nbGUuY29tL2lkZW50aXR5L3Byb3RvY29scy9vYXV0aDIvcG9saWNpZXMjc2VjdXJlLXJlc3BvbnNlLWhhbmRsaW5nIJADKjcKDHJlZGlyZWN0X3VyaRInaHR0cDovL3lvdXJzaXRldXJsL2F1dGgvZ29vZ2xlL2NhbGxiYWNr&client_id=your+client+ID
-File Name: C:\Downloaded Web Sites\www.amerstocktrading.digital\signin\oauth\error.html
+File Name: C:\Downloaded Web Sites\www.alliancecoinmining.com\signin\oauth\error.html
 Content Type: text/html
 

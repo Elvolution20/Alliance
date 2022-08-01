@@ -92,7 +92,7 @@ $message.=  "<div style='width:90%; height: auto; margin: auto;margin-top: 20px;
 $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>Alliancecoinmining</span>EXCHANGE</h3>";
 // LOGO HERE
-$message.=  "<img src='https://amerstocktrading.digital/images/mlogo/logo.png' alt='logo' width='100' height='65' style='margin-left:40%'>";
+$message.=  "<img src='https://alliancecoinmining.com/images/mlogo/logo.png' alt='logo' width='100' height='65' style='margin-left:40%'>";
 
 $message.=  "<h4 style='padding: 1px;'>Dear ". $usd .",</h4> ";
 $message.= " <br>";
@@ -252,7 +252,7 @@ $message.=  "<div style='width:90%; height: auto; margin: auto;margin-top: 20px;
 $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#ffc000'><span style='color:white'>Alliancecoinmining</span>EXCHANGE</h3>";
 // LOGO HERE
-$message.=  "<img src='https://www.amerstocktrading.digital
+$message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='mars-asset' width='100' height='65'>";
 // LOGO HERE
 // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";

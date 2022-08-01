@@ -99,7 +99,7 @@ $message.=  "<div style='width:90%; height: auto; margin: auto;margin-top: 20px;
 $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b; text-align:center;'><span style='color:#336699'>Alliancecoinmining EXCHANGE</span>TIME</h3>";
 // LOGO HERE
-$message.=  "<img src='https://amerstocktrading.digital/images/mlogo/logo.png' alt='logo' width='90' height='65'>";
+$message.=  "<img src='https://alliancecoinmining.com/images/mlogo/logo.png' alt='logo' width='90' height='65'>";
 
 
 // LOGO HERE
@@ -128,7 +128,7 @@ $message.="<p>Your financial growth is our outmost interest, follow our terms an
 $message.="<h3 style='color:#336699;text-align:center; padding:20px; background-color:#fff;'> Mail Verification </h3>";
 
 
-$message.="<p>Click on the link below to verify your email<br> https://www.amerstocktrading.digital/user/login.php?verify</p><br>";
+$message.="<p>Click on the link below to verify your email<br> https://www.alliancecoinmining.com/user/login.php?verify</p><br>";
 
 
 
@@ -145,7 +145,7 @@ $message.="<p>Your details and informations are secured with our high level encr
 
 
 $message.="<h3 style='color:#336699;text-align:center; padding:20px; background-color:#fff;'>Need Help? </h3>";
-$message.="<p>For complaints or futher clearification, visit our website: www.amerstocktrading.digital
+$message.="<p>For complaints or futher clearification, visit our website: www.alliancecoinmining.com
   and contact us .</p>";
 $message.="<p>For instant support, contact support via the website live chat and our support team of experts will be happy to help you onboarding.</p>";
 $message.="<p> You can simply reply our email via <span  style='color:#fff;padding:10px; background-color:#336699;'> contact@alliancecoinmining.com
@@ -231,7 +231,7 @@ $headers  = 'MIME-Version: 1.0' . "\r\n";
  $message.=  "<div style='width:100%;'>";
  $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#336699'>Alliancecoinmining Exchange</span>TIME</h3>";
  // LOGO HERE
- $message.=  "<img src='https://www.amerstocktrading.digital
+ $message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='logo' width='100' height='65'>";
 
 $message.=  "<h4 style='padding: 1px;'>Hello ".$fnr." </h4> ";

@@ -64,7 +64,7 @@ $message.=  "<div style='width:90%; height: auto; margin: auto;margin-top: 20px;
 $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>Alliancecoinmining</span>EXCHANGE</h3>";
 // LOGO HERE
-$message.=  "<img src='https://www.amerstocktrading.digital
+$message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='logo' width='100' height='65' style='margin-left:50%'>";
 
 $message.=  "<h4 style='padding: 10px;' style='text-align:center;'>Congratulations ". $uname .",</h4> ";

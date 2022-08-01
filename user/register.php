@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Alliancecoinmining exchange | Register </title>
+    <title>Alliancecoinmining  | Register </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
@@ -126,7 +126,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                    <?php
                     $url="https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                    // $url="https://xeolinvest.com/register.php?uchemelo100000";
-                    //$url="https://www.amerstocktrading.digital/register.php?uchejfifjkdbvvvjlbuvfujfkd.";
+                    //$url="https://www.alliancecoinmining.com/register.php?uchejfifjkdbvvvjlbuvfujfkd.";
                     //collected the user and sliced it
                      $refname = substr($url,50);
 

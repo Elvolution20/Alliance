@@ -57,7 +57,7 @@ if($plan == "silver" && $statusofinv == "active" && $date_diff >= 1 && $count !=
     $message.=  "<div style='width:100%;'>";
     $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>Alliancecoinmining EXCHANGE</span>TIME</h3>";
     // LOGO HERE
-    $message.=  "<img src='https://www.amerstocktrading.digital
+    $message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='logo' width='100' height='65'>";
     // LOGO HERE
     // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
@@ -154,7 +154,7 @@ if($plan == "silver" && $statusofinv == "active" && $date_diff >= 1 && $count !=
    $message.=  "<div style='width:100%;'>";
    $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>Alliancecoinmining EXCHANGE</span>TIME</h3>";
    // LOGO HERE
-   $message.=  "<img src='https://www.amerstocktrading.digital
+   $message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='logo' width='100' height='65'>";
   // LOGO HERE
    // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
@@ -234,7 +234,7 @@ if($plan == "silver" && $statusofinv == "active" && $date_diff >= 1 && $count !=
     $message.=  "<div style='width:100%;'>";
     $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>Alliancecoinmining EXCHANGE</span>TIME</h3>";
     // LOGO HERE
-    $message.=  "<img src='https://www.amerstocktrading.digital
+    $message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='logo' width='100' height='65'>";
    // LOGO HERE
     // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
@@ -316,7 +316,7 @@ if($plan == "silver" && $statusofinv == "active" && $date_diff >= 1 && $count !=
   $message.=  "<div style='width:100%;'>";
   $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>Alliancecoinmining EXCHANGE</span>TIME</h3>";
   // LOGO HERE
-  $message.=  "<img src='https://www.amerstocktrading.digital
+  $message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='logo' width='100' height='65'>";
  // LOGO HERE
   // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";

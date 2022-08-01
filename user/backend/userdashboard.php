@@ -681,7 +681,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                             </script>
 
                       </div>
-    <input type="text" class="form-control-plaintext" value="https://www.amerstocktrading.digital/register.php?<?php echo $uname;?>" id="copybtc" readonly="">
+    <input type="text" class="form-control-plaintext" value="https://www.alliancecoinmining.com/register.php?<?php echo $uname;?>" id="copybtc" readonly="">
                       </div>
                     </div>
                     <div class="table-responsive">

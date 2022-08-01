@@ -69,7 +69,7 @@ $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#ffc000'><span style='color:white'>KYC</span> VERIFICATION</h3>";
 // LOGO HERE
 
-$message.=  "<img src='https://www.amerstocktrading.digital
+$message.=  "<img src='https://www.alliancecoinmining.com
 /assets/img/bo.png' alt='logo' width='100' height='65'>";
 
 // LOGO HERE
