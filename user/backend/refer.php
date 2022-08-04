@@ -54,7 +54,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining exchange time- userdashboard</title>
+  <title>Alliance Coin Mining- userdashboard</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -65,7 +65,7 @@
  
   <!-- Custom style CSS -->
   <link rel="stylesheet" href="components/css/custom.css">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
  
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 </head>
@@ -90,8 +90,8 @@
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -120,7 +120,7 @@
                 <a href="welcome.php" class="dropdown-item"> <span class="dropdown-item-avatar
                       text-white"> <img alt="image" src="assets/img/p4.png" class="rounded-circle">
                   </span> <span class="dropdown-item-desc"> <span class="message-user"><?php echo $fname?></span>
-                    <span class="time messege-text">Alliancecoinmining exchange time guidelines !!</span>
+                    <span class="time messege-text">Alliance Coin Mining guidelines !!</span>
                     <span class="time">on registration</span>
                   </span>
                 </a> 
@@ -246,10 +246,10 @@
         
       </nav>
 
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <a href="#"> <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
           </div>
@@ -264,12 +264,18 @@
               
             </li>
 
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
+            </li>
+
+
             <li class="dropdown">
               <a href="invest.php" class="nav-link" style="color:orange"><i data-feather="bar-chart"></i><span>Investment</span></a>
             </li>
            
             <li class="dropdown">
-              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/forcast</span></a>
+              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/Mining</span></a>
             </li>
             
             <li class="dropdown">
@@ -298,10 +304,7 @@
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
             <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
              
@@ -330,8 +333,8 @@
                     <div class="media">
                       <img class="mr-3" src="assets/img/image-64.png" alt="Generic placeholder image">
                       <div class="media-body">
-                        <h5 class="mt-0">Alliancecoinmining exchange time referrals</h5>
-                        <p class="mb-0">Refer users to Alliancecoinmining Exchange Time community and earn 5% of the total amont invested by the person you referred. We are also offering our customers loans depending on how many referral they have and other qualifications. For support, contact our live support or write us a mail at <a href="#0"> contact@alliancecoinmining.com
+                        <h5 class="mt-0">Alliance Coin Mining referrals</h5>
+                        <p class="mb-0">Refer users to Alliance Coin Mining community and earn 5% of the total amont invested by the person you referred. We are also offering our customers loans depending on how many referral they have and other qualifications. For support, contact our live support or write us a mail at <a href="#0"> contact@alliancecoinmining.com
 
 </a></p>
                       </div>
@@ -346,7 +349,7 @@
           <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
             <div class="card">
-                  <div class="card-header" style="background-color:#08237e; ">
+                  <div class="card-header" style="background-color:#5b53ae; ">
                     <h4 style="color:orange;">Your Downlines <i data-feather="user-plus"></i></h4>
                   </div>
                   <div class="card-body">
@@ -354,7 +357,7 @@
                     <label for="email"><marque><i class="fas fa-users"></i> Invite & Earn Using Your referral link </marque></label>
                       <div class="input-group mb-2">
                         <div class="input-group-prepend">
-                        <button type="button" id="clickcopy" onClick="mycopy()" class="input-group-text btn" style="background-color:#08237e;color:white"><i data-feather="copy"></i>copy</button>
+                        <button type="button" id="clickcopy" onClick="mycopy()" class="input-group-text btn" style="background-color:#5b53ae;color:white"><i data-feather="copy"></i>copy</button>
                         <script type="text/javascript">
                             
                             function mycopy(){

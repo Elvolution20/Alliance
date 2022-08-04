@@ -50,7 +50,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining exchange time - userdashboard</title>
+  <title>Alliance Coin Mining - userdashboard</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -63,7 +63,7 @@
   <link rel="stylesheet" href="components/css/custom.css">
 
   
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
 
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 </head>
@@ -79,8 +79,8 @@
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -229,10 +229,10 @@
 
         
       </nav>
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <!-- <a href="#"> <img alt="image" src="components/img/profile1.png" class="header-logo" />  -->
               <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
@@ -246,6 +246,11 @@
               <a href="deposit.php" class="nav-link" style="color:orange"><i
                   data-feather="credit-card"></i><span>Deposit</span></a>
               
+            </li>
+
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
             </li>
            
             <li class="dropdown">
@@ -278,10 +283,7 @@
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
 
                         <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
@@ -328,14 +330,14 @@
                               <span class="date pull-right"><?php echo $date;?></span>
                               <!-- <h5 class="text-primary">Admin</h5> -->
                               <small class="text-muted">Admin</small><br>
-                              <small class="text-muted">From: support@Alliancecoinmining exchange time.com</small>
+                              <small class="text-muted">From: support@Alliance Coin Mining.com</small>
                             </div>
                           </div>
                         </div>
                         <div class="view-mail p-t-20">
                           <p>
-                             <h4 style="color: #336699"> Alliancecoinmining exchange time Guide</h4>
-                            Firstly, we are glad you choose to register and invest with us. We welcome you to <span style="color: orange;">Alliancecoinmining exchange time Investment Platform.</span> We want to make the system easy and stress free for you even as you enjoy your Returns on investments(ROI), that is why we are providing this guideline for you. </p>
+                             <h4 style="color: #336699"> Alliance Coin Mining Guide</h4>
+                            Firstly, we are glad you choose to register and invest with us. We welcome you to <span style="color: orange;">Alliance Coin Mining Investment Platform.</span> We want to make the system easy and stress free for you even as you enjoy your Returns on investments(ROI), that is why we are providing this guideline for you. </p>
 
                           <p>
                             <h4 style="color: #336699"> Deposit guide</h4>
@@ -345,7 +347,7 @@
                             <li>Proceed with the instructions provided.</li>
                             <li>After deposit, proceed to your dashboard side bar to comfirm your deposit by sending a screenshot of your payment</li>
 
-                            <li>Easy, is not? For Support contact our live support chat</li>
+                            <li>Easy, isn't? For Support contact our live support chat</li>
 
                           </p>
 
@@ -363,7 +365,7 @@
                        <div class="row mt-4">
                       <div class="col-lg-8">
                         <div class="section-title" style="color: orange;"> Payment Method</div>
-                        <p class="section-lead">These payment methods are unavailable for now. All customers will be notified via email and dashboard notification when to make use of the gateways. Stay connected and thanks for choosing Alliancecoinmining exchange time.</p>
+                        <p class="section-lead">These payment methods are unavailable for now. All customers will be notified via email and dashboard notification when to make use of the gateways. Stay connected and thanks for choosing Alliance Coin Mining.</p>
                         <div class="images">
                           <img src="assets/img/cards/visa.png" alt="visa">
                           <img src="assets/img/cards/jcb.png" alt="jcb">
@@ -382,7 +384,7 @@
                             <li>Choose a suitable investment plan that suits your wallet balance and make your investment</li>
                             <li>Your ROI depends on the investment plan you choose and the duration of the complete cycle</li>
                             <li>Invest high and enjoy high return</li>
-                            <li>Easy, is not? For Support contact our live support chat</li>
+
 
                           </p>
 
@@ -390,12 +392,12 @@
                           <p>
                             <h4 style="color: #336699"> Withdrawal guide</h4>
                             <li>Navigate to your side bar and click on the <a href="deposit.php">Request Withdrawal tab or click here.</a>.</li>
-                            <li>Comfirm your password for authenticity.</li>
+                            <li>Confirm your password for authenticity.</li>
                             <li>A withdrawal Otp will be sent to your email, use it and continue withdrawal</li>
                             <li>Choose the means of withrawal suitable for you, then click on proceed button</li>
                             <li>Your request will be processed immediately, for delay contact the live support</li>
 
-                            <li>Easy, is not? For Support contact our live support chat</li>
+
 
                           </p>
                         </div>

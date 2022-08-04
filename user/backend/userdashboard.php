@@ -58,7 +58,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
     setTimeout(function() {
         swal({
             title: "Attention!",
-            text: "Welcome to Alliancecoinmining Exchange Time dashboard. Please note that all payment should be made to the company officially generated wallet address for immediate comfirmation and swift transaction. Thank you!!",
+            text: "Welcome to Alliance Coin Mining dashboard. Please note that all payment should be made to the company officially generated wallet address for immediate comfirmation and swift transaction. Thank you!!",
             type: "warning"
         }, function() {
             window.location = "userdashboard.php";
@@ -83,7 +83,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining exchange time- userdashboard</title>
+  <title>Alliance Coin Mining- userdashboard</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -94,7 +94,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
  
   <!-- Custom style CSS -->
   <link rel="stylesheet" href="components/css/custom.css">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
  
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
@@ -127,8 +127,8 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -157,7 +157,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                 <a href="welcome.php" class="dropdown-item"> <span class="dropdown-item-avatar
                       text-white"> <img alt="image" src="assets/img/p4.png" class="rounded-circle">
                   </span> <span class="dropdown-item-desc"> <span class="message-user"><?php echo $fname?></span>
-                    <span class="time messege-text">Alliancecoinmining exchange time guidelines !!</span>
+                    <span class="time messege-text">Alliance Coin Mining guidelines !!</span>
                     <span class="time">on registration</span>
                   </span>
                 </a> 
@@ -283,10 +283,10 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
         
       </nav>
 
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <a href="#"> <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
           </div>
@@ -301,12 +301,17 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
               
             </li>
 
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
+            </li>
+
             <li class="dropdown">
               <a href="invest.php" class="nav-link" style="color:orange"><i data-feather="bar-chart"></i><span>Investment</span></a>
             </li>
            
             <li class="dropdown">
-              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/forcast</span></a>
+              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/Mining</span></a>
             </li>
             
             <li class="dropdown">
@@ -335,10 +340,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
             <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
              
@@ -363,7 +365,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                     <div class="media">
                       <img class="mr-3" src="assets/img/image-64.png" alt="Generic placeholder image">
                       <div class="media-body">
-                       <!--  <h5 class="mt-0">Alliancecoinmining exchange time Profile verification</h5>
+                       <!--  <h5 class="mt-0">Alliance Coin Mining Profile verification</h5>
                         <p class="mb-0">Verifying your ID and proof of Residence will allow you to make withdrawals from your account.<br> You will need to provide us with Proof of residence document.<br> This will enable us to comfirm it is you before any withdrawal from your account and deposit reach over $30,1000</p> -->
 
                            <div class="header-contacts-item hidden-sm hidden-xs">
@@ -388,7 +390,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
           <div class="row" >
               <div class="col-12 col-md-6 col-lg-6" style="width: 100%;">
                 <div class="card">
-                  <div class="card-header" style="background-color:#08237e;color:white">
+                  <div class="card-header" style="background-color:#5b53ae;color:white">
                     <h4 style="color: orange;">Welcome to your dashboard <?php echo $fname;?></h4>
                   </div>
                   <div class="card-body">
@@ -402,7 +404,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                         <div class="carousel-item active">
                           <img class="d-block w-100" src="assets/img/a/4.gif" alt="First slide">
                           <div class="carousel-caption d-none d-md-block">
-                            <h5>Alliancecoinmining exchange time Investment</h5>
+                            <h5>Alliance Coin Mining Investment</h5>
                             
                           </div>
                         </div>
@@ -439,7 +441,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
            <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
               <div class="card ">
-                <div class="card-header" style="background-color:#08237e;color:white">
+                <div class="card-header" style="background-color:#5b53ae;color:white">
                   <h4 style="color:white"><i class="fab fa-btc"> Wallet Details</i></h4>
                   
                 </div>
@@ -507,7 +509,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                   <div class="card-wrap">
                     <div class="padding-20">
                       <div class="text-right">
-                        <h3 class="font-light mb-0" style="color:#08237e">
+                        <h3 class="font-light mb-0" style="color:#5b53ae">
                           <i class="ti-arrow-up text-success"></i> 
                           $<?php echo $totalbal;?>
                         </h3>
@@ -527,7 +529,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                   <div class="card-wrap">
                     <div class="padding-20">
                       <div class="text-right">
-                        <h3 class="font-light mb-0" style="color:#08237e">
+                        <h3 class="font-light mb-0" style="color:#5b53ae">
                           <i class="ti-arrow-up text-success"></i>
                           $<?php echo $totalinvestment;?>
                         </h3>
@@ -546,7 +548,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                   <div class="card-wrap">
                     <div class="padding-20">
                       <div class="text-right">
-                        <h3 class="font-light mb-0" style="color:#08237e">
+                        <h3 class="font-light mb-0" style="color:#5b53ae">
                           <i class="ti-arrow-up text-success"></i>
                           $<?php echo $totalwith;?>
                         </h3>
@@ -567,7 +569,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                   <div class="card-wrap">
                     <div class="padding-20">
                       <div class="text-right">
-                        <h3 class="font-light mb-0" style="color:#08237e">
+                        <h3 class="font-light mb-0" style="color:#5b53ae">
                           <i class="ti-arrow-up text-success"></i>
                           $<?php echo $earning;?>
                         </h3>
@@ -588,7 +590,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                   <div class="card-wrap">
                     <div class="padding-20">
                       <div class="text-right">
-                        <h3 class="font-light mb-0" style="color:#08237e">
+                        <h3 class="font-light mb-0" style="color:#5b53ae">
                           <i class="ti-arrow-up text-success"></i>
                           $<?php echo $invest;?>
                         </h3>
@@ -607,7 +609,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                   <div class="card-wrap">
                     <div class="padding-20">
                       <div class="text-right">
-                        <h3 class="font-light mb-0" style="color:#08237e">
+                        <h3 class="font-light mb-0" style="color:#5b53ae">
                           <i class="ti-arrow-up text-success"></i>
                           $<?php echo $lastdep;?>
                         </h3>
@@ -631,36 +633,13 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
         <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
-              <div class="card ">
-                <div class="card-header" style="background-color:#08237e;color:white">
-                  <h4 style="color:orange"><i class="fab fa-btc"></i> We have a global coverage: our online trading community.</h4>
-                  
-                </div>
-                <div class="card-body">
-                  
-                  <iframe scrolling="no" allowtransparency="true" frameborder="0" src="https://s.tradingview.com/embed-widget/Alliancecoinmining-heat-map/?locale=en#%7B%22width%22%3A%22100%25%22%2C%22height%22%3A400%2C%22currencies%22%3A%5B%22EUR%22%2C%22USD%22%2C%22JPY%22%2C%22GBP%22%2C%22CHF%22%2C%22AUD%22%2C%22CAD%22%2C%22NZD%22%2C%22CNY%22%5D%2C%22isTransparent%22%3Afalse%2C%22colorTheme%22%3A%22light%22%2C%22utm_source%22%3A%22binaryfunds.org%22%2C%22utm_medium%22%3A%22widget%22%2C%22utm_campaign%22%3A%22Alliancecoinmining-heat-map%22%7D" style="box-sizing: border-box; height: 400px; width: 100%;"></iframe>
-                  
-                    </div>
-
-                    <div class="card-body">
-                    <p class="text" style="font-size: 20px; color:#08237e ;">Start Trading</p>
-                    <div class="buttons">
-                     <a href="invest.php" class="btn btn-success">Buy</a> 
-                     <a href="withcomfirm.php" class="btn btn-danger">sell</a>
-                      
-                      
-                    </div>
-                  </div>
-                   
-                    </div>
-                  </div>
-           </div>
+              
 
 
           <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
             <div class="card">
-                  <div class="card-header" style="background-color:#08237e; ">
+                  <div class="card-header" style="background-color:#5b53ae; ">
                     <h4 style="color:orange;">Your Downlines <i data-feather="user-plus"></i></h4>
                   </div>
                   <div class="card-body">
@@ -668,7 +647,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                     <label for="email"><marque><i class="fas fa-users"></i> Invite & Earn Using Your referral link </marque></label>
                       <div class="input-group mb-2">
                         <div class="input-group-prepend">
-                        <button type="button" id="clickcopy" onClick="mycopy()" class="input-group-text btn" style="background-color:#08237e;color:white"><i data-feather="copy"></i>copy</button>
+                        <button type="button" id="clickcopy" onClick="mycopy()" class="input-group-text btn" style="background-color:#5b53ae;color:white"><i data-feather="copy"></i>copy</button>
                         <script type="text/javascript">
                             
                             function mycopy(){

@@ -53,7 +53,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining Exchange Time - userdashboard</title>
+  <title>Alliance Coin Mining - userdashboard</title>
   <!-- General CSS Files -->
 
   <!--begining of new css-->
@@ -78,7 +78,7 @@
   <link rel="stylesheet" href="components/css/custom.css">
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
   
   <link href="vendorz/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
@@ -130,8 +130,8 @@
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -282,10 +282,10 @@
 
         
       </nav>
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <!-- <a href="#"> <img alt="image" src="components/img/profile1.png" class="header-logo" /> -->
              <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
@@ -301,8 +301,13 @@
               
             </li>
 
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
+            </li>
+
             <li class="dropdown">
-              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/forcast</span></a>
+              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/Mining</span></a>
             </li>
            
             <li class="dropdown">
@@ -335,10 +340,7 @@
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
 
                         <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
@@ -360,8 +362,8 @@
                     <div class="media">
                       <img class="mr-3" src="assets/img/image-64.png" alt="Generic placeholder image">
                       <div class="media-body">
-                        <h5 class="mt-0">Alliancecoinmining exchange time investment Plans</h5>
-                        <p class="mb-0">Check out our Amazing Investment Plans. Remember, choose the investment plan that suits your needs. The higher your plan, the more ROI(Return On Investment) you enjoy and Alliancecoinmining exchange time loan qualification.</p>
+                        <h5 class="mt-0">Alliance Coin Mining investment Plans</h5>
+                        <p class="mb-0">Check out our Amazing Investment Plans. Remember, choose the investment plan that suits your needs. The higher your plan, the more ROI(Return On Investment) you enjoy and Alliance Coin Mining loan qualification.</p>
                       </div>
                     </div>
                   </div>
@@ -396,7 +398,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
   <div class="row" >
                  
               <div class="col-lg-3 col-md-6 col-sm-6 col-12" >
-                <div class="card card-statistic-1" style="background-color:#08237e;color:white">
+                <div class="card card-statistic-1" style="background-color:#5b53ae;color:white">
                   <div class="card-icon bg-secondary">
                     <i class="fas fa-wallet" style="color:black"></i>
                   </div>
@@ -416,15 +418,16 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
                  <div class="col-xl-3 col-lg-6" >
                 <div class="card" style="color:black">
-                  <div class="card-bg" style="background-color:#08237e;color:white">
+                  <div class="card-bg" style="background-color:#5b53ae;color:white">
                     <div class="p-t-20 d-flex justify-content-between">
                       <div class="col">
-                      <h5 class="font-15">Basic Plan</h5>
-                      <h2 class="mb-3 font-18">30% after 7 days</h2>
+                      <h5 class="font-15">Bronze Plan</h5>
+                      <h2 class="mb-3 font-18">Mining Interest : 20%</h2>
                       <a href="#" class="btn btn-outline-warning" data-toggle="modal" data-target="#exampleModal3">Invest</a>
-                      <p class="mb-0"><span class="col-orange">$500</span> min. deposit</p>
-                      <p class="mb-0"><span class="col-orange">$999</span> max. deposit</p>
-                      <p class="mb-0"><span class="col-orange">5%</span> referral bonus</p>
+                      <p class="mb-0"><span class="col-orange">$100</span> min. deposit</p>
+                      <p class="mb-0"><span class="col-orange">$499</span> max. deposit</p>
+                      <p class="mb-0"><span class="col-orange">ROI</span> after 1 day</p>
+                      <p class="mb-0"><span class="col-orange">10%</span> referral bonus</p>
                       </div>
                       
                       <i class="fas fa-chart-bar card-icon col-orange font-30 p-r-30"></i>
@@ -437,15 +440,16 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
             
               <div class="col-xl-3 col-lg-6">
                 <div class="card" style="color:black">
-                  <div class="card-bg" style="background-color:#08237e;color:white">
+                  <div class="card-bg" style="background-color:#5b53ae;color:white">
                     <div class="p-t-20 d-flex justify-content-between">
                       <div class="col">
-                      <h5 class="font-15">Standard Plan</h5>
-                      <h2 class="mb-3 font-18">40% after 7 days</h2>
+                      <h5 class="font-15">Silver Plan</h5>
+                      <h2 class="mb-3 font-18">Mining Interest : 35%</h2>
                       <a href="#" class="btn btn-outline-success" data-toggle="modal" data-target="#exampleModal2">Invest</a>
-                      <p class="mb-0"><span class="col-orange">$1000</span> min. deposit</p>
-                      <p class="mb-0"><span class="col-orange">$9999</span> max. deposit</p>
-                      <p class="mb-0"><span class="col-orange">5%</span> referral bonus</p>
+                      <p class="mb-0"><span class="col-orange">$500</span> min. deposit</p>
+                      <p class="mb-0"><span class="col-orange">$999</span> max. deposit</p>
+                      <p class="mb-0"><span class="col-orange">ROI</span> after 1 day</p>
+                      <p class="mb-0"><span class="col-orange">10%</span> referral bonus</p>
                       </div>
                       
                       <i class="fas fa-chart-bar card-icon col-green font-30 p-r-30"></i>
@@ -457,15 +461,16 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
             
               <div class="col-xl-3 col-lg-6">
                 <div class="card" style="color:black">
-                  <div class="card-bg" style="background-color:#08237e;color:white">
+                  <div class="card-bg" style="background-color:#5b53ae;color:white">
                     <div class="p-t-20 d-flex justify-content-between">
                       <div class="col">
-                      <h5 class="font-15">Ultra Plan</h5>
-                      <h2 class="mb-3 font-18">50% after 7 Days</h2>
+                      <h5 class="font-15">Gold Plan</h5>
+                      <h2 class="mb-3 font-18">Mining Interest : 135%</h2>
                       <a href="#" class="btn btn-outline-primary" data-toggle="modal" data-target="#exampleModal1">Invest</a>
-                      <p class="mb-0"><span class="col-orange">$10000</span> min. deposit</p>
-                      <p class="mb-0"><span class="col-orange">19999</span> max. deposit</p>
-                      <p class="mb-0"><span class="col-orange">5%</span> referral bonus</p>
+                      <p class="mb-0"><span class="col-orange">$1000</span> min. deposit</p>
+                      <p class="mb-0"><span class="col-orange">$4999</span> max. deposit</p>
+                      <p class="mb-0"><span class="col-orange">ROI</span> after 3 days</p>
+                      <p class="mb-0"><span class="col-orange">10%</span> referral bonus</p>
                       </div>
                       
                       <i class="fas fa-chart-bar card-icon col-blue font-30 p-r-30"></i>
@@ -477,18 +482,19 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
              <div class="col-xl-3 col-lg-6">
                 <div class="card" style="color:black">
-                  <div class="card-bg" style="background-color:#08237e;color:white">
+                  <div class="card-bg" style="background-color:#5b53ae;color:white">
                     <div class="p-t-20 d-flex justify-content-between">
                       <div class="col">
-                      <h5 class="font-15">Commercial Plan</h5>
-                      <h2 class="mb-3 font-18">65% after 7 Days</h2>
+                      <h5 class="font-15">Premium Plan</h5>
+                      <h2 class="mb-3 font-18">Mining Interest : 455%</h2>
                       <a href="#" class="btn btn-outline-primary" data-toggle="modal" data-target="#exampleModal5">Invest</a>
-                      <p class="mb-0"><span class="col-orange">$20000</span> min. deposit</p>
-                      <p class="mb-0"><span class="col-orange">$49999</span> max. deposit</p>
-                      <p class="mb-0"><span class="col-orange">5%</span> referral bonus</p>
+                      <p class="mb-0"><span class="col-orange">$5000</span> min. deposit</p>
+                      <p class="mb-0"><span class="col-orange">$9999</span> max. deposit</p>
+                      <p class="mb-0"><span class="col-orange">ROI</span> after 7 days</p>
+                      <p class="mb-0"><span class="col-orange">10%</span> referral bonus</p>
                       </div>
                       
-                      <i class="fas fa-chart-bar card-icon col-blue font-30 p-r-30"></i>
+                      <i class="fas fa-chart-bar card-icon col-red font-30 p-r-30"></i>
                     </div>
                     <canvas id="cardChart3" height="80" class="col-purple"></canvas>
                   </div>
@@ -496,25 +502,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
               </div>
 
 
-              <div class="col-xl-3 col-lg-6">
-                <div class="card" style="color:black">
-                  <div class="card-bg" style="background-color:#08237e;color:white">
-                    <div class="p-t-20 d-flex justify-content-between">
-                      <div class="col">
-                      <h5 class="font-15">Vip Plan</h5>
-                      <h2 class="mb-3 font-18">85% after 7 Days</h2>
-                      <a href="#" class="btn btn-outline-primary" data-toggle="modal" data-target="#exampleModal6">Invest</a>
-                      <p class="mb-0"><span class="col-orange">$50000</span> min. deposit</p>
-                      <p class="mb-0"><span class="col-orange">Unlimited</span> max. deposit</p>
-                      <p class="mb-0"><span class="col-orange">5%</span> referral bonus</p>
-                      </div>
-                      
-                      <i class="fas fa-chart-bar card-icon col-blue font-30 p-r-30"></i>
-                    </div>
-                    <canvas id="cardChart3" height="80" class="col-purple"></canvas>
-                  </div>
-                </div>
-              </div>
+
 
               
 
@@ -525,8 +513,8 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
               <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
               <div class="card ">
-                <div class="card-header" style="background-color:#08237e;color:white">
-                  <h4 style="color:white"><i class="fab fa-btc"></i>itcoin Live Trading Chart</h4>
+                <div class="card-header" style="background-color:#5b53ae;color:white">
+                  <h4 style="color:white"><i class="fab fa-btc"></i>Bitcoin Live Trading Chart</h4>
                   
                 </div>
                 <div class="card-body">
@@ -559,7 +547,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content" style="color:black">
               <div class="modal-header" style="">
-                <h5 class="modal-title" id="formModal" style="color:#08237e"><i class="material-icons">equalizer</i> Investment Panel</h5>
+                <h5 class="modal-title" id="formModal" style="color:#5b53ae"><i class="material-icons">equalizer</i> Investment Panel</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true" class="btn btn-danger">&times;</span>
                 </button>
@@ -622,7 +610,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                     </div>
                   </div>
                   
-                  <button type="submit" name='invest' class="btn m-t-15 waves-effect" tabindex="4" style="background:#08237e;color:white "><i class="far fa-paper-plane"></i> proceed</button>
+                  <button type="submit" name='invest' class="btn m-t-15 waves-effect" tabindex="4" style="background:#5b53ae;color:white "><i class="far fa-paper-plane"></i> proceed</button>
                   
                 </form>
               </div>
@@ -637,7 +625,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content" style="color:black">
               <div class="modal-header" style="">
-              <h5 class="modal-title" id="formModal"style="color:#08237e"><i class="material-icons">equalizer</i> Investment Panel</h5>                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <h5 class="modal-title" id="formModal"style="color:#5b53ae"><i class="material-icons">equalizer</i> Investment Panel</h5>                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true" class="btn btn-danger">&times;</span>
                 </button>
               </div>
@@ -695,7 +683,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                     </div>
                   </div>
                   
-                  <button type="submit" name="invest" class="btn m-t-15 waves-effect" tabindex="5" style="background:#08237e;color:white"><i class="far fa-paper-plane"></i>proceed</button>
+                  <button type="submit" name="invest" class="btn m-t-15 waves-effect" tabindex="5" style="background:#5b53ae;color:white"><i class="far fa-paper-plane"></i>proceed</button>
                 </form>
               </div>
             </div>
@@ -709,7 +697,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content" style="color:black">
               <div class="modal-header" style="">
-                <h5 class="modal-title" id="formModal" style="color:#08237e"><i class="material-icons">equalizer</i> Investment Panel</h5>
+                <h5 class="modal-title" id="formModal" style="color:#5b53ae"><i class="material-icons">equalizer</i> Investment Panel</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true" class="btn btn-danger">&times;</span>
                 </button>
@@ -773,7 +761,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                     </div>
                   </div>
                   
-                  <button type="submit" name="invest" class="btn m-t-15 waves-effect" tabindex="8" style="background:#08237e;color:white "><i class="far fa-paper-plane"></i>proceed</button>                </form>
+                  <button type="submit" name="invest" class="btn m-t-15 waves-effect" tabindex="8" style="background:#5b53ae;color:white "><i class="far fa-paper-plane"></i>proceed</button>                </form>
               </form>
                 </div>
             </div>

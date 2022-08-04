@@ -48,9 +48,9 @@
     padding: 7px;
 }
 .pricing-list-button {
-    background: #08237e;
+    background: #5b53ae;
     margin: 20px 15px 0px 15px;
-    border: 2px solid #08237e;
+    border: 2px solid #5b53ae;
     border-radius: 5px;
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s;
@@ -94,7 +94,7 @@
 }
 .service-simple-button a {
     display: inline-block;
-    background: #08237e;
+    background: #5b53ae;
     color: #fff;
     border-radius: 5px;
     text-align: center;

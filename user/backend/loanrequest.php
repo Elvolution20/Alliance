@@ -52,7 +52,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining exchange time- userdashboard</title>
+  <title>Alliance Coin Mining- userdashboard</title>
   <!-- General CSS Files -->
 
   <!--begining of new css-->
@@ -79,7 +79,7 @@
 
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
 
  
   <link href="vendorz/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -132,8 +132,8 @@
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -260,10 +260,10 @@
 
         
       </nav>
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <a href="#"> <img alt="image" src="components/img/profile1.png" class="header-logo" /> <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
           </div>
@@ -276,6 +276,11 @@
               <a href="deposit.php" class="nav-link" style="color:orange"><i
                   data-feather="credit-card"></i><span>Deposit</span></a>
               
+            </li>
+
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
             </li>
            
             <li class="dropdown">
@@ -308,10 +313,7 @@
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
              <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
              
@@ -348,7 +350,7 @@
             
               <div class="col-xl-3 col-lg-6">
                 <div class="card" style="color:white">
-                  <div class="card-bg" style="background-color:#08237e">
+                  <div class="card-bg" style="background-color:#5b53ae">
                     <div class="p-t-20 d-flex justify-content-between">
                       <div class="col">
                       <h5 class="font-15">Empowerment Loan</h5>
@@ -368,7 +370,7 @@
 
               <div class="col-xl-3 col-lg-6">
                 <div class="card" style="color:white">
-                  <div class="card-bg" style="background-color:#08237e">
+                  <div class="card-bg" style="background-color:#5b53ae">
                     <div class="p-t-20 d-flex justify-content-between">
                       <div class="col">
                       <h5 class="font-15">Ultimate Loan</h5>
@@ -394,7 +396,7 @@
 
 
               <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                <div class="card card-statistic-1" style="background-color:#08237e">
+                <div class="card card-statistic-1" style="background-color:#5b53ae">
                   <div class="card-icon l-bg-purple">
                     <i class="fas fa-wallet"></i>
                   </div>
@@ -425,7 +427,7 @@
           <div class="modal-dialog modal-dialog-centered" role="document" >
             <div class="modal-content " style="color:black">
               <div class="modal-header" style="background: ;">
-                <h5 class="modal-title" id="formModal" style="color:#08237e">Complete Loan Request</h5>
+                <h5 class="modal-title" id="formModal" style="color:#5b53ae">Complete Loan Request</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true" class="btn btn-danger">&times;</span>
                 </button>
@@ -487,7 +489,7 @@
                     </div>
                   </div>
                   
-                  <button type="submit" name="proceed" class="btn m-t-15 waves-effect" tabindex="8" style="background:#08237e;color:white "><i class="far fa-paper-plane"></i> proceed</button>                </form>
+                  <button type="submit" name="proceed" class="btn m-t-15 waves-effect" tabindex="8" style="background:#5b53ae;color:white "><i class="far fa-paper-plane"></i> proceed</button>                </form>
               </form>
                 </div>
             </div>
@@ -506,7 +508,7 @@
           <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content" style="color:black">
               <div class="modal-header" style="">
-              <h5 class="modal-title" id="formModal" style="color:#08237e">Request Failed</h5>
+              <h5 class="modal-title" id="formModal" style="color:#5b53ae">Request Failed</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true" class="btn btn-danger">&times;</span>
                 </button>

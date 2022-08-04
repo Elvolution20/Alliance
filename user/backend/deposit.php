@@ -53,7 +53,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining Exchange Time - userdashboard</title>
+  <title>Alliance Coin Mining - userdashboard</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -62,7 +62,7 @@
   <!-- Custom style CSS -->
   <link rel="stylesheet" href="components/css/custom.css">
 
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
  
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
@@ -91,8 +91,8 @@
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -240,10 +240,10 @@
 
         
       </nav>
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <!-- <a href="#"> <img alt="image" src="components/img/profile1.png" class="header-logo" />  -->
               <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
@@ -259,9 +259,14 @@
               
             </li>
 
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
+            </li>
+
 
             <li class="dropdown">
-              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/forcast</span></a>
+              <a href="trade.php" class="nav-link" style="color:orange"><i data-feather="bar-chart-2"></i><span>Trade/Mining</span></a>
             </li>
            
             <li class="dropdown">
@@ -294,10 +299,7 @@
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
 
                         <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
@@ -336,7 +338,7 @@
                  <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
               <div class="card ">
-                <div class="card-header" style="background-color:#08237e;color:white">
+                <div class="card-header" style="background-color:#5b53ae;color:white">
                   
           <span style="font-weight:bold"><i class="fas fa-credit-card"></i> Make a Deposit Request</span>
     
@@ -395,7 +397,7 @@
                   </div>
                 </div>
                     </div><br>
-                   <button type="submit" name="proceed" class="btn" style="background-color:#08237e;color:white" tabindex="4"><i data-feather="credit-card"></i> Proceed</button>
+                   <button type="submit" name="proceed" class="btn" style="background-color:#5b53ae;color:white" tabindex="4"><i data-feather="credit-card"></i> Proceed</button>
               </form>
              
               </div>
@@ -415,7 +417,7 @@
                        <div class="row mt-4">
                       <div class="col-lg-8">
                         <div class="section-title" style="color: orange;"> Other Payment Method</div>
-                        <p class="section-lead">These payment methods are unavailable for now. All customers will be notified via email and dashboard notification when to make use of the gateways. Stay connected and thanks for choosing Alliancecoinmining exchange time.</p>
+                        <p class="section-lead">These payment methods are unavailable for now. All customers will be notified via email and dashboard notification when to make use of the gateways. Stay connected and thanks for choosing Alliance Coin Mining.</p>
                         <div class="images">
                           <img src="assets/img/cards/visa.png" alt="visa">
                           <img src="assets/img/cards/jcb.png" alt="jcb">
@@ -434,15 +436,15 @@
 
                     <div class="author-box-details">
                       <div class="author-box-name">
-                        <a href="#" style="color:#fff; background-color: #08237e; padding:10px;">Transaction Process</a>
+                        <a href="#" style="color:#fff; background-color: #5b53ae; padding:10px;">Transaction Process</a>
                       </div>
                       
                       <div class="author-box-description">
-                        <h4 style="color:#000;">Depositing cryptocurrency to your Alliancecoinmining exchange time Dashboard is easy</h4>
+                        <h4 style="color:#000;">Depositing cryptocurrency to your Alliance Coin Mining Dashboard is easy</h4>
                         <p>Simply select the crypto or mode of payment you want to deposit with,  then enter the amount you'll like to deposit. Click on proceed to generate your wallet address. This process is simple and clear, but for support, contact our support chat for clearifications.</p>
 
                         <a href="#" >
-                          <i data-feather="alert-triangle" style="color:#fff; text-align: center; background-color:#08237e; "></i>
+                          <i data-feather="alert-triangle" style="color:#fff; text-align: center; background-color:#5b53ae; "></i>
                           </a>
                       </div>
                     

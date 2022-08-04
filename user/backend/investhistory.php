@@ -52,7 +52,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining Exchange Time- userdashboard</title>
+  <title>Alliance Coin Mining- userdashboard</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -67,7 +67,7 @@
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
 
 
 </head>
@@ -84,8 +84,8 @@
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -212,10 +212,10 @@
 
         
       </nav>
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <!-- <a href="#"> <img alt="image" src="components/img/profile1.png" class="header-logo" />  -->
               <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
@@ -229,6 +229,11 @@
               <a href="deposit.php" class="nav-link" style="color:orange"><i
                   data-feather="credit-card"></i><span>Deposit</span></a>
               
+            </li>
+             
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
             </li>
 
 
@@ -266,10 +271,7 @@
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
                         <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
              
@@ -288,7 +290,7 @@
                  <div class="row">
             <div class="col-12 col-sm-12 col-lg-12">
             <div class="card">
-                  <div class="card-header" style="background-color:#08237e;color:white">
+                  <div class="card-header" style="background-color:#5b53ae;color:white">
                     <h4 class="col-white"><i class="fas fa-history"></i> Your Investment History</h4>
                   </div>
                   <div class="card-body">
@@ -329,7 +331,7 @@ if($result_checker > 0){
                                             echo '<td>'.$amount. '</td>'; 
                                             echo '<td>'.$statusofdep. '</td>';
                                             echo '<td>'.$earn. '</td>';
-                          echo "<td> <form method='POST' action='actions/deleteinv.php'><input type='hidden' name='invid' value='$depid'> <button type='submit' name='delete' class='btn' style='background-color:#08237e;color:white'><i class='fas fa-trash-alt'></i> Delete</button> </form></td>";
+                          echo "<td> <form method='POST' action='actions/deleteinv.php'><input type='hidden' name='invid' value='$depid'> <button type='submit' name='delete' class='btn' style='background-color:#5b53ae;color:white'><i class='fas fa-trash-alt'></i> Delete</button> </form></td>";
                                                                                        
                                         
                             echo '</tr>';

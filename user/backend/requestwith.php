@@ -52,7 +52,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining exchange time userdashboard</title>
+  <title>Alliance Coin Mining userdashboard</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -64,7 +64,7 @@
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 
 
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
   
 </head>
 
@@ -79,8 +79,8 @@
           <ul class="navbar-nav mr-3">
             <li><a href="#" data-toggle="sidebar" class="nav-link nav-link-lg
                   collapse-btn"> <i data-feather="align-justify"></i></a></li>
-                <!-- <img alt="image" src="assets/img/bo.png" height="60px"  width="20%" class="header-logo" />-->
-           <h6 style="color:#08237e"><?php date_default_timezone_set('Africa/lagos');
+                <!-- <img alt="image" src="assets/img/logo.png" height="60px"  width="20%" class="header-logo" />-->
+           <h6 style="color:#5b53ae"><?php date_default_timezone_set('Africa/lagos');
            $date= date('Y-m-d h:i:s');
            echo $date;
            
@@ -208,10 +208,10 @@
 
         
       </nav>
-      <div class="main-sidebar sidebar-style-2 " style="background-color:#08237e">
+      <div class="main-sidebar sidebar-style-2 " style="background-color:#5b53ae">
         <aside id="sidebar-wrapper ">
           <div class="sidebar-brand">
-            <a href="#0"><img src="assets/img/bo.png" style="height: 50px;width: 100px;"></a><br>
+            <a href="#0"><img src="assets/img/logo.png" style="height: 50px;width: 100px;"></a><br>
             <!-- <a href="#"> <img alt="image" src="components/img/profile1.png" class="header-logo" />  -->
               <span class="logo-name" style="color:white;font-size:14px"><?php echo $uname;?></span>
             </a>
@@ -226,6 +226,12 @@
                   data-feather="credit-card"></i><span>Deposit</span></a>
               
             </li>
+
+            <li>
+              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
+             
+            </li>
+
            
             <li class="dropdown">
               <a href="invest.php" class="nav-link" style="color:orange"><i data-feather="bar-chart"></i><span>Investment</span></a>
@@ -257,10 +263,7 @@
               <a href="kyc.php" class="nav-link" style="color:orange"><i data-feather="upload-cloud"></i><span>Kyc Verification</span></a>
              
             </li>
-            <li>
-              <a href="proof.php" class="nav-link" style="color:orange"><i data-feather="send"></i><span>Confirm deposit</span></a>
-             
-            </li>
+
               <li>
               <a href="refer.php" class="nav-link" style="color:orange"><i data-feather="share-2"></i><span>Refer and earn</span></a>
              
@@ -305,7 +308,7 @@
                       var amound = document.forms['investp']['amountwith'].value;
                       var amountchk = parseInt(amound,10);
                     if( amountchk > walletbal){
-                      swal('Insufficient Funds', 'Your withdrawl Request failed due to Insufficient Funds in your earning wallet!', 'error');
+                      swal('Insufficient Funds', 'Your withdrawl request failed due to Insufficient Funds in your earning wallet!', 'error');
                       
                         return false;
                     }if(amountchk == walletbal ){
@@ -317,7 +320,7 @@
                }
                 </script>
                 </script>
-                <div class="card-header" style="background:#08237e;color:white ">
+                <div class="card-header" style="background:#5b53ae;color:white ">
                   
                   <span style="font-weight:bold">Request For a Withdrawal .</span>
     
@@ -331,7 +334,7 @@
 
                         <input type="hidden" class="form-control" value="<?php echo$fname?>" name="name" id="inlineFormInputGroup" placeholder="enter password here.." required autofocus">
 
-                     <button name="otp" type="submit" class="btn" style="background:#08237e;color:white " tabindex="4"><i class="far fa-credit-card"></i>Resend Otp</button>
+                     <button name="otp" type="submit" class="btn" style="background:#5b53ae;color:white " tabindex="4"><i class="far fa-credit-card"></i>Resend Otp</button>
                    </form>
               </div>
 
@@ -456,7 +459,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                 </div>
                 
                     </div>
-                   <button name="proceed" type="submit" class="btn" style="background:#08237e;color:white " tabindex="4"><i class="far fa-credit-card"></i> Withdraw</button>
+                   <button name="proceed" type="submit" class="btn" style="background:#5b53ae;color:white " tabindex="4"><i class="far fa-credit-card"></i> Withdraw</button>
                    </form>
                   </div>
             </div>

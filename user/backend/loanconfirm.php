@@ -46,7 +46,7 @@ if(isset($_POST['proceed'])){
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining Exchange Time - loan userdashboard</title>
+  <title>Alliance Coin Mining - loan userdashboard</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -60,7 +60,7 @@ if(isset($_POST['proceed'])){
 
 
   
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
 </head>
 
 <body>
@@ -90,7 +90,7 @@ if(isset($_POST['proceed'])){
 
               <p class='text-align-center' style='text-align:center;color:black;'>Hello <b>".$uname ."</b> you requested a loan of <b>$". $amount . "</b>, and your request is being processed.
                                  </p>";
-                        echo " <a href='userdashboard.php' class='btn btn-lg btn-round' style='background-color:#08237e;color:white'>
+                        echo " <a href='userdashboard.php' class='btn btn-lg btn-round' style='background-color:#5b53ae;color:white'>
                       Done
                     </a>";
                  echo "</div>";

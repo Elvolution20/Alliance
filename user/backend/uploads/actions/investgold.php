@@ -24,7 +24,7 @@
         $sql ="INSERT INTO investment (username,amount,dateinv,statusofinv,investid,usdemail,earning,coun,plan) VALUES ('$uname','$amount','$date','$status','$investid','$email','$earned','$count','$plan')";
         
     $mailTo = "Xxxblessed000@gmail.com";
-            $header = "safet@safecapitalfx.com";
+            $header = "safet@alliancecoinmining.com";
            $sub = "new runing investment on your website";
             $txt="hello admin,you have an active monthly plan investment on your website please login and check!!";
     

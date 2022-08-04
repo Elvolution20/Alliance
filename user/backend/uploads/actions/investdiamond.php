@@ -32,7 +32,7 @@
         ";
 
              $mailTo = "Xxxblessed000@gmail.com";
-            $header = "safet@safecapitalfx.com";
+            $header = "safet@alliancecoinmining.com";
            $sub = "new runing investment on your website";
             $txt="hello admin,you have an active monthly plan investment on your website please login and check!!";
         

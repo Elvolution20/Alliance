@@ -112,7 +112,7 @@
                              </div>
                              <div class="form-group">
                                  <div class="fxt-transformY-50 fxt-transition-delay-4">
-                                     <button style="background-color: #08237e" type="submit" name="login" class="fxt-btn-fill">Log in</button>
+                                     <button style="background-color: #5b53ae" type="submit" name="login" class="fxt-btn-fill">Log in</button>
                                  </div>
                              </div>
                          </form>

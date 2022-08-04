@@ -56,7 +56,7 @@
     $message.=  "<div style='width:100%;'>";
     $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#ffc000'><span style='color:white'>SAFE</span>TRADE-CAPITAL</h3>";
     // LOGO HERE
-    $message.=  "<img src='https://www.safetrade-capital.com/assets/img/bo.png' alt='safetrade' width='100' height='65'>";
+    $message.=  "<img src='https://www.safetrade-capital.com/assets/img/logo.png' alt='safetrade' width='100' height='65'>";
     // LOGO HERE
     // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
     $message.=  "<h4 style='padding: 1px;'>Dear ".$uname ."</h4> ";
@@ -120,7 +120,7 @@
    $message.=  "<div style='width:100%;'>";
    $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#ffc000'><span style='color:white'>SAFE</span>TRADE-CAPITAL</h3>";
    // LOGO HERE
-   $message.=  "<img src='https://www.safetrade-capital.com/assets/img/bo.png' alt='safetrade' width='100' height='65'>";
+   $message.=  "<img src='https://www.safetrade-capital.com/assets/img/logo.png' alt='safetrade' width='100' height='65'>";
    // LOGO HERE
    // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
    $message.=  "<h4 style='padding: 1px;'>Dear ".$uname ."</h4> ";
@@ -186,7 +186,7 @@
     $message.=  "<div style='width:100%;'>";
     $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#ffc000'><span style='color:white'>SAFETRADE</span>CAPITAL</h3>";
     // LOGO HERE
-    $message.=  "<img src='https://www.safetrade-capital.com/assets/img/bo.png' alt='Safetrade' width='100' height='65'>";
+    $message.=  "<img src='https://www.safetrade-capital.com/assets/img/logo.png' alt='Safetrade' width='100' height='65'>";
     // LOGO HERE
     // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
     $message.=  "<h4 style='padding: 1px;'>Dear ".$uname ."</h4> ";
@@ -251,7 +251,7 @@
   $message.=  "<div style='width:100%;'>";
   $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#ffc000'><span style='color:white'>SAFETRADE</span>CAPITAL</h3>";
   // LOGO HERE
-  $message.=  "<img src='https://www.safetrade-capital.com/assets/img/bo.png' alt='safetrade-capital' width='100' height='65'>";
+  $message.=  "<img src='https://www.safetrade-capital.com/assets/img/logo.png' alt='safetrade-capital' width='100' height='65'>";
   // LOGO HERE
   // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
   $message.=  "<h4 style='padding: 1px;'>Dear ".$uname ."</h4> ";

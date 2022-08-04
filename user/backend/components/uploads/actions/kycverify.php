@@ -66,7 +66,7 @@ $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#ffc000'><span style='color:white'>KYC</span> VERIFICATION</h3>";
 // LOGO HERE
 
-$message.=  "<img src='https://www.safecapitalfx.com/assets/img/bo.png' alt='logo' width='100' height='65'>";
+$message.=  "<img src='https://www.alliancecoinmining.com/assets/img/logo.png' alt='logo' width='100' height='65'>";
 
 // LOGO HERE
 // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
@@ -82,11 +82,11 @@ $message.="<p>Your are informations are secured with our high encryption databas
 $message.="<h3 style='text-align:center; color:#336699;'>Need Help?</h3>";
 
 
-$message.="<p style='text-align:center;'>Contact us through our life support or send us mail via support@safecapitalfx.com</p>";
+$message.="<p style='text-align:center;'>Contact us through our life support or send us mail via contact@alliancecoinmining.com</p>";
 
 
 $message.= "</div> ";
-$message .=  "<p style='text-align:center;'>Safecapitalfx © 2022 All Rights Reserved</p> ";
+$message .=  "<p style='text-align:center;'>Alliancecoinmining © 2022 All Rights Reserved</p> ";
 $message.=  " </div>";
 $message.=  "</div>";
 $message.=  "</body></html>";

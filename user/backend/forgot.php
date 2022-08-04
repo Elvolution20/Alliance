@@ -6,7 +6,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Alliancecoinmining exchange time | Best Brokeage and Investment Platform to Grow your Income</title>
+  <title>Alliance Coin Mining | Best Brokeage and Investment Platform to Grow your Income</title>
   <!-- General CSS Files -->
   <link rel="stylesheet" href="components/css/app.min.css">
   <!-- Template CSS -->
@@ -15,7 +15,7 @@
   <!-- Custom style CSS -->
   <link rel="stylesheet" href="components/css/custom.css">
   <link rel='shortcut icon' type='image/x-icon' href='assets/img/favicon.ico' />
-  <link rel="shortcut icon" type="image/x-icon" href="assets/img/bo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.png" />
 </head>
 
 <body style="background:linear-gradient(rgba(61, 42, 105, 0.9),rgba(61, 42, 105, 0.9)),url('assets/img/9.gif');background-position:center; background-repeat: no-repeat; background-size: cover;">
@@ -27,7 +27,7 @@
           <div class="col-12 col-sm-8 offset-sm-2 col-md-6 offset-md-3 col-lg-6 offset-lg-3 col-xl-4 offset-xl-4">
             <div class="card card-primary" style="margin-top:60px">
               <div class="card-header">
-                <h4>Forgot your Alliancecoinmining exchange time Password?</h4>
+                <h4>Forgot your Alliance Coin Mining Password?</h4>
               </div>
              
               <div class="card-body">

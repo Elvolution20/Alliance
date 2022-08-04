@@ -1,9 +1,9 @@
 <?php
  
  $server = "localhost";
- $username = "amerjdmu_amer";
- $pwd = "4)9s4ZcsOszY";
- $db = "amerjdmu_amers";
+ $username = "elvolution_allianceuser";
+ $pwd = "Alliance20@";
+ $db = "elvolution_alliancecoinmining";
 
 $conn = mysqli_connect($server,$username,$pwd,$db) or die ("couldnt connect to database");
 

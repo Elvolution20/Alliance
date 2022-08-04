@@ -65,7 +65,7 @@ $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>Alliancecoinmining</span>EXCHANGE</h3>";
 // LOGO HERE
 $message.=  "<img src='https://www.alliancecoinmining.com
-/assets/img/bo.png' alt='logo' width='100' height='65' style='margin-left:50%'>";
+/assets/img/logo.png' alt='logo' width='100' height='65' style='margin-left:50%'>";
 
 $message.=  "<h4 style='padding: 10px;' style='text-align:center;'>Congratulations ". $uname .",</h4> ";
 $message.= " <br>";
@@ -85,9 +85,9 @@ $message.="<p style='text-align:center;'>Contact us through our life support or 
 </p>";
 
 $message.="<h5 style='color:#336699;text-align:center; padding:10px; background-color:#fff;'>Note!!</h5>";
-$message.="<p style='color:#fff; background-color:#000;'>1.Confidentiality: This e-mail and any files transmitted with it are confidential and intended solely for the use of the recipient(s) only. Any review, retransmission, dissemination or other use of, or taking any action in reliance upon this information by persons or entities other than the intended recipient(s) is prohibited. If you have received this e-mail in error please notify the sender immediately and destroy the material whether stored on a computer or otherwise. Alliancecoinmining Exchange Time accepts no liability for the content of this email, or for the consequences of any actions taken on the basis of the information provided.
+$message.="<p style='color:#fff; background-color:#000;'>1.Confidentiality: This e-mail and any files transmitted with it are confidential and intended solely for the use of the recipient(s) only. Any review, retransmission, dissemination or other use of, or taking any action in reliance upon this information by persons or entities other than the intended recipient(s) is prohibited. If you have received this e-mail in error please notify the sender immediately and destroy the material whether stored on a computer or otherwise. Alliance Coin Mining accepts no liability for the content of this email, or for the consequences of any actions taken on the basis of the information provided.
 
-    2.Disclaimer: Any views or opinions presented within this e-mail are solely those of the author and do not necessarily represent those of Alliancecoinmining Exchange Time, unless otherwise specifically stated. The content of this message does not contain or constitute financial recommendation or advice.</p>";
+    2.Disclaimer: Any views or opinions presented within this e-mail are solely those of the author and do not necessarily represent those of Alliance Coin Mining, unless otherwise specifically stated. The content of this message does not contain or constitute financial recommendation or advice.</p>";
 
 
 

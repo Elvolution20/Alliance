@@ -19,7 +19,7 @@ if(isset($_POST['proceed'])){
 	             mysqli_query($conn,$sql);
 
                  $mailTo = "Xxxblessed000@gmail.com";
-                 $header = "safe@safecapitalfx.com";
+                 $header = "safe@alliancecoinmining.com";
               $sub = "You have recieved a withdrawal request from ".$uname." from your website";
               // $txt = "username:". $uid ."\n\n". "amount:" . $amount ."\n\n"."plan:". $plan.
               // "\n\n"."type:".$type;        

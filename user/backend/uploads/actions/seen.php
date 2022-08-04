@@ -73,7 +73,7 @@
 
 $to = $usdemail;
 $subject = 'Credit';
-$from = 'Safe@safecapitalfx.com';
+$from = 'Safe@alliancecoinmining.com';
  
 // To send HTML mail, the Content-type header must be set
 $headers  = 'MIME-Version: 1.0' . "\r\n";
@@ -92,7 +92,7 @@ $message.=  "<div style='width:90%; height: auto; margin: auto;margin-top: 20px;
 $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>SAFE</span>TRADE-CAPITAL</h3>";
 // LOGO HERE
-$message.=  "<img src='https://www.safecapitalfx.com/assets/img/bo.png' alt='logo' width='100' height='65' style='margin-left:40%'>";
+$message.=  "<img src='https://www.alliancecoinmining.com/assets/img/logo.png' alt='logo' width='100' height='65' style='margin-left:40%'>";
 
 $message.=  "<h4 style='padding: 1px;'>Dear ". $usd .",</h4> ";
 $message.= " <br>";
@@ -100,7 +100,7 @@ $message.=  "<div style='width:100%;height: auto;box-shadow: 0px 0px 3px rgb(253
 
 $message.="<p style='text-align:center;'><strong>Your Deposit of $".$amount." have been confirmed </strong></p>";
 
-$message.="<p style='text-align:center;'>Thanks for choosing safecapitalfx and trusting our services.</p>";
+$message.="<p style='text-align:center;'>Thanks for choosing alliancecoinmining and trusting our services.</p>";
 
 
 $message.="<p style='text-align:center;'>Log into your dashboard to invest and start earning.</p>";
@@ -109,12 +109,12 @@ $message.="<p style='text-align:center;'>Log into your dashboard to invest and s
 $message.="<h3 style='text-align:center; color:#336699;'>Need Help?</h3>";
 
 
-$message.="<p style='text-align:center;'>Contact us through our life support or send us mail via support@safecapitalfx.com</p>";
+$message.="<p style='text-align:center;'>Contact us through our life support or send us mail via contact@alliancecoinmining.com</p>";
 
 
 
 $message.= "</div> ";
-$message .=  "<p style='text-align:center;'>safecapitalfx ©2022 All Rights Reserved</p> ";
+$message .=  "<p style='text-align:center;'>alliancecoinmining ©2022 All Rights Reserved</p> ";
 $message.=  " </div>";
 $message.=  "</div>";
 $message.=  "</body></html>";

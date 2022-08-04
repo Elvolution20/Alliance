@@ -85,7 +85,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
                             <div class="form-group">
                                 <div class="fxt-transformY-50 fxt-transition-delay-1">
-                                    <label style="color: #08237e;">Fullname  <sup style="color: red;">*</sup></label>
+                                    <label style="color: #5b53ae;">Fullname  <sup style="color: red;">*</sup></label>
                                     <input type="text" id="name" class="form-control" name="fname" placeholder="Full Name" value="" required=""></div>
                             </div>     
 
@@ -394,7 +394,7 @@ $url="http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
                             </div>
                             <div class="form-group">
                                 <div class="fxt-transformY-50 fxt-transition-delay-4">
-    <button style="background-color: #08237e" type="submit" name="register" class="fxt-btn-fill">Create
+    <button style="background-color: #5b53ae" type="submit" name="register" class="fxt-btn-fill">Create
                                         Account</button>
                                 </div>
                             </div>

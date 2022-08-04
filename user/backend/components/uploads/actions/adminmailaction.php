@@ -16,7 +16,7 @@ $sql = "INSERT INTO adminmail(mailid, message, email,subject) VALUES ('$mailid',
 		//registeration email
 $to = $email;
 $subject = $sub;
-$from = "support@Safecapitalfx.com";
+$from = "contact@alliancecoinmining.com";
  
 // To send HTML mail, the Content-type header must be set
 $headers  = 'MIME-Version: 1.0' . "\r\n";
@@ -35,7 +35,7 @@ $message.=  "<div style='width:90%; height: auto; margin: auto;margin-top: 20px;
 $message.=  "<div style='width:100%;'>";
 $message.=  "<h3 style='padding: 1px;font-family: Georgia; color:#083d6b'><span style='color:#083d6b'>SAFE</span>CAPITALFX</h3>";
 // LOGO HERE
-$message.=  "<img src='https://www.Safecapitalfx.com/assets/img/bo.png' alt='logo' width='100' height='65'>";
+$message.=  "<img src='https://www.alliancecoinmining.com/assets/img/logo.png' alt='logo' width='100' height='65'>";
 // LOGO HERE
 // $message.=  "<img src='https://www.algrocryptofund.com/imgs/log.jpg'>";
 //$message.=  "<h4 style='padding: 1px;'>Hello ".$fname." ". $uname. ",</h4> ";
@@ -47,11 +47,11 @@ $message.= $msg;
 $message.="<h3 style='text-align:center; color:#336699;'>Need Help?</h3>";
 
 
-$message.="<p style='text-align:center;'>Contact us through our life support or send us mail via support@safecapitalfx.com</p>";
+$message.="<p style='text-align:center;'>Contact us through our life support or send us mail via contact@alliancecoinmining.com</p>";
 
 
 $message.= "</div> ";
-$message .=  "<p style='text-align:center;'>Safecapitalfx © 2022 All Rights Reserved</p> ";
+$message .=  "<p style='text-align:center;'>Alliancecoinmining © 2022 All Rights Reserved</p> ";
 $message.=  " </div>";
 $message.=  "</div>";
 $message.=  "</body></html>";
